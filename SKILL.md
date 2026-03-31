@@ -28,6 +28,15 @@ Use `taobao-competitor-analyzer` instead when the user wants:
 - lowest visible comparable price across platforms
 - whether to switch away from Taobao
 
+## Commerce Matrix
+
+This skill is the Taobao station-native node in the shopping matrix.
+
+Prefer nearby skills when the task shifts:
+- `taobao-competitor-analyzer` for cross-platform same-item comparison
+- `alibaba-shopping` when the user first needs to choose between Taobao, Tmall, and 1688
+- `tianmao` when official flagship and authenticity matter more than marketplace variety
+
 ## Workflow
 
 1. Clarify the target product or listing.
